@@ -2,6 +2,8 @@
 - 👀 I’m interested in Programming and cybersecurity - DevSecOps
 - 🌱 I’m currently learning html, css and some frameworks (like bootstrap)
 - 🪴I'm also learning about Linux (Kali) and Bug bounty 
+- 🐛 Newbie as a caterpillar
+- 🐜 Worker as an ant
 <!--  - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
